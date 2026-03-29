@@ -1,6 +1,5 @@
 # C++ Study Journey 
-This repository is dedicated to my personal growth in C++ development and algorithmic problem-solving. It tracks my progress from mastering core language mechanics to preparing for the **Blue Bridge Cup (蓝桥杯)**.
-
+This repository is dedicated to my personal growth in C++ development and algorithmic problem-solving. 
 ## Learning Objectives
 - [ ] Complete **The Cherno's C++** essential series.
 - [ ] Deep dive into **Memory Management** (Stack vs. Heap, Pointers, References).
